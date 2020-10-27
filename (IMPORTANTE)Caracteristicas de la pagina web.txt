@@ -1,0 +1,10 @@
+TECHWORLD es una plataforma de aprendizaje sobre temas de ingenieria de sistemas y afines, que por el momento cuenta con lo siguiente:
+*Pagina principal (index) la cual tiene lo siguiente:
+	*Menu de navegación
+	*Publicacion principal
+	*Dos secciones de noticias organizadas en una fila con cuatro columnas 
+	*Dos banners con espacio para publicidad
+	*Pie de pagina con otras secciones y redes sociales
+Por el momento solo esta publicada la noticia sobre COMPUTACION FORENSE y la pagina CIENCIA que se encuentra en la barra de navegacion 
+La pagina ciencia tiene todos sus enlaces habilitados
+
